@@ -7,7 +7,9 @@ function App() {
   return (
     <>
       <h1>ABPA Directors</h1>
-      <SVGMapComponent />
+      <div className='map-container'>
+        <SVGMapComponent style={{ width: '100%', height: '100%' }}/>
+      </div>
     </>
   )
 }

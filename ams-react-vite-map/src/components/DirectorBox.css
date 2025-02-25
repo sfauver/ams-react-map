@@ -1,0 +1,26 @@
+.director-box {
+    position: absolute;
+    top: 0;
+    left: 0;
+    background-color: #0D7BBE;
+    color: white;
+    border: 1px solid #ccc;
+    padding: 10px;
+    border-radius: 5px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  }
+
+  .director-box .name {
+    font-weight: bold;
+    font-size: large;
+    margin-bottom: 10px;
+  }
+  
+  .director-box .name {
+    font-weight: bold;
+    margin-bottom: 5px;
+  }
+  
+  .director-box .email {
+    color: white;
+  }
